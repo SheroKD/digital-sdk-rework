@@ -36,9 +36,9 @@ enum e_enum;
 
 ## features
 - anti-aimbot (yaw and pitch modifiers)
-- player esp (box, name, health bar and text)
+- player esp reworked (box, name, health bar and text)
 - bunnyhop
-- log system
+- reworked log system
 #
 
 # hooks
@@ -50,4 +50,4 @@ enum e_enum;
 - frame stage notify
 #
 
-![App menu](https://i.imgur.com/nHQW7MP.png)
+![App menu](https://i.imgur.com/floe1aW.png)
